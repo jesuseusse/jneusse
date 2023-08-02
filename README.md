@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jneusse
-- 👀 I'm fullstack developer with 3 year of experience.
-Javascript and frameworks such as REACT and VueJS, HTML5, CCS3.
-NodeJS, PHP, JAVA. 
+- 👀 I'm fullstack developer with 4 year of experience (MERN)
+
+I'm Computer Engineer, familiar with wide range of programming utilities and languages. I really enjoy creating awesome software, don't hesitate to contact to me if you have an amazing idea or startup and you want a partner.
 
 <!---
 jneusse/jneusse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
