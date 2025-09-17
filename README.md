@@ -1,5 +1,3 @@
----
-
 ### GitHub Profile
 
 - 👋 Hi, I'm **Jesus Niño Eusse**.
@@ -34,5 +32,3 @@ Throughout my career, I have worked in various roles and projects:
 ### Education
 
 * Computer Engineering, Universidad Alejandro de Humboldt - Caracas, Venezuela, Nov 2018.
-
----
